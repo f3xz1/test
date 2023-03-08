@@ -1,6 +1,3 @@
-i am under the wotor
-
-
 ls
 cd
 git init
